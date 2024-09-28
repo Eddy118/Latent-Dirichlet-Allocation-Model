@@ -49,8 +49,8 @@ pip install Flask pymongo apscheduler gensim nltk flask-cors certifi
 
 1. **Clone the Repository** (if applicable)
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Eddy118/Latent-Dirichlet-Allocation-Model.git
+   cd Latent-Dirichlet-Allocation-Model
    ```
 
 2. **Set Up MongoDB**
